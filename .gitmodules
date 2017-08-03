@@ -1,0 +1,4 @@
+[submodule "Training"]
+	path = Training
+	url = https://github.com/AmanKataria94/Training.git
+	branch = master
